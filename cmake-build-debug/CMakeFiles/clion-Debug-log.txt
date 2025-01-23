@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/opt/homebrew/bin/gcc-14 -G Ninja -S /Users/jackyang/Documents/Work/Research/APT/apt_testing -B /Users/jackyang/Documents/Work/Research/APT/apt_testing/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/jackyang/Documents/Work/Research/APT/apt_testing/cmake-build-debug
